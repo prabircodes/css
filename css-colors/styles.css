@@ -1,0 +1,15 @@
+body {
+  color: aliceblue;
+}
+
+h1 {
+  background-color: royalblue;
+  text-align: center;
+}
+p {
+  background-color: brown;
+  padding: 20px;
+  line-height: 30px;
+  font-size: 18px;
+  letter-spacing: 2px;
+}
